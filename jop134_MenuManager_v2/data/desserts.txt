@@ -1,0 +1,5 @@
+Cake@@A wonderful chocolate cake smothered in hot fudge.@@600
+Ice Cream@@Three scoops of chocolate or vanilla ice cream, drizzled with chocolate or caramel syrup.@@650
+Milkshake@@A rich chocolate or vanilla milkshake served with whipped cream.@@500
+Brownies@@Tasty chocolate brownies covered in fudgeand baked to perfection.@@550
+Pie@@Your choice of apple or pumpkin, baked to perfection, covered in whipped cream.@@450

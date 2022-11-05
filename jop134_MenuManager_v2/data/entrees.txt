@@ -1,0 +1,5 @@
+Steak@@A delicious piece of 1/2 a pound meat grilled and seasoned.@@700
+Burger@@A tasty hamburger topped with cheese, ketchup, and pickle.@@650
+Ribs@@A juicy rack of ribs served with our famous barbeque sauce.@@800
+Pasta@@Penne noodles served with your choice of sauce.@@600
+Wings@@A dozen tender wings with your choice of sauce, served with ranch.@@500
